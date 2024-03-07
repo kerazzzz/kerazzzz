@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerazzzz&label=Profile%20views&color=0e75b6&style=flat" alt="kerazzzz" /> </p>
 
 - 🌱 I’m currently learning **A lot of Things**
+-🔍 Exploring The Field of AI/ML
 
-#📝 I regularly write articles on [https://medium.com/@nulliq6](https://medium.com/@nulliq6)
 
 
 
