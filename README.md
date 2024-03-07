@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm keraz</h1>
-<h3 align="center">An aspiring data scientist having keen interest in AI/ML</h3>
+<h1 align="center">Hi 👋</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerazzzz&label=Profile%20views&color=0e75b6&style=flat" alt="kerazzzz" /> </p>
 
 - 🌱 I’m currently learning **A lot of Things**
 
-- 📝 I regularly write articles on [https://medium.com/@nulliq6](https://medium.com/@nulliq6)
+#📝 I regularly write articles on [https://medium.com/@nulliq6](https://medium.com/@nulliq6)
 
-- 💬 Ask me about **DS and AI/ML**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
