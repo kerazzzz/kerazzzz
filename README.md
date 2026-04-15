@@ -1,22 +1,86 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋 </h1>
 
+<h3 align="center">
+  Aspiring QA Engineer | Test Automation | Actively Seeking Opportunities
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerazzzz&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<p align="center">
+  Motivated fresher passionate about software testing, automation, and building reliable applications, backed by solid programming skills and a good understanding of software development.
+</p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kerazzzz&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
+---
 
+### 🧪 About Me
+- 🎯 Aspiring **QA Engineer actively looking for opportunities**
+- 🔍 Interested in **Manual Testing, Automation Testing & API Testing**
+- ⚙️ Currently learning and building hands-on projects in testing
+- 💡 Strong foundation in programming, helping me understand bugs better
 
+---
 
+### 🛠️ Skills & Tools
 
+<p align="left">
+  <!-- QA Tools -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  </a>
 
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
 
+  <!-- Database -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📌 What I’m Building
+- 🧪 Practicing **test case design & bug reporting**
+- 🤖 Learning **Selenium WebDriver for automation**
+- 🔗 Exploring **API testing using Postman**
+- 🛠️ Creating small projects to strengthen QA skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerazzzz&show_icons=true&locale=en&layout=compact"  /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerazzzz&show_icons=true&locale=en"  /></p>
+### 🚀 Goal
+To start my career as a **QA Engineer** where I can contribute, learn, and grow in real-world projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerazzzz&"  /></p>
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerazzzz&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kerazzzz&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerazzzz&" />
+</p>
